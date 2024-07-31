@@ -1,0 +1,7 @@
+ipl-env/
+ideas.txt
+temp*
+I2DS_Semester*
+.vscode/
+.ipynb_checkpoints/
+dataset/*/
